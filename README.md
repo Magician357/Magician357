@@ -17,10 +17,10 @@
     "Work" : {
         "Current" : [
             "the_files",
+            "My website"
         ],
         "Finished" : [
-            "Opinions",
-            "My website"
+            "Opinions"
         ]
     },
     "Preferences" : {
