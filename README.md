@@ -11,16 +11,18 @@
             "Javascript",
         ],
         "Learning" : [
-            "c++"
         ]
     },
     "Work" : {
         "Current" : [
-            "the_files",
             "My website"
         ],
         "Finished" : [
             "Opinions"
+        ],
+        "Planned" : [
+            "the_files",
+            "the place after"
         ]
     },
     "Preferences" : {
